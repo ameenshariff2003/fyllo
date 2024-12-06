@@ -1,4 +1,3 @@
-import fs from "fs"
 const data = [
   {
     _year: "2015-2016",
